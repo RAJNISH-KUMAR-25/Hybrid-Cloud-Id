@@ -1,0 +1,9 @@
+# Basic gitignore for this repo
+.vscode/
+*.log
+*.tmp
+video/*.mp4
+assets/*.gif
+screenshots/*.png
+.DS_Store
+Thumbs.db
